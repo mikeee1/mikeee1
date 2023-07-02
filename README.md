@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://www.buymeacoffee.com/mikeee1">my buy me a coffee</a>
+<a href="https://www.buymeacoffee.com/mikeee1">buy me a coffee</a>
 
 <!--
 **mikeee1/mikeee1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
